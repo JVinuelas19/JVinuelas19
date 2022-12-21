@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JVinuelas19
 - 👀 I’m interested in Web development, cybersecurity and apps development.
-- 🌱 I’m currently learning HTML5, CSS3 and JavaScript. Python will be my next stop.
+- 🌱 I’m currently learning HTML5, CSS3, JavaScript and Python.
 - 💞️ I’m looking to collaborate on any project i can help.
 - 📫 If you want to ask me anything you can write to my mail: JVinuelas19@gmail.com or send me a DM via Twitter: @JVinuelas19
 
