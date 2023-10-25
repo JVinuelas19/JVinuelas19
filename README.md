@@ -2,12 +2,12 @@
 <h3 align="center">An enthusiast Python developer and telematics engineering student from Spain!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jvinuelas19&label=Profile%20views&color=0e75b6&style=flat" alt="jvinuelas19" /> </p>
-- 👀 I’m interested in Web development, cybersecurity and software development.
-- 🌱 I’m currently learning JavaScript and Python.
-- 💞️ I’m looking to collaborate on any project i can help.
-- 📫 If you want to ask me anything you can write to my mail: JVinuelas19@gmail.com or send me a DM via Twitter: @JVinuelas19
-- 💸 If you enjoy my work please consider doing a donation: https://www.paypal.com/donate/?hosted_button_id=7QSS3APP4TSGE
-- ⚡ Fun fact **All my python knowledge is self-taught YIKES**
+- 👀 I’m interested in Web development, cybersecurity and software development.<br>
+- 🌱 I’m currently learning JavaScript and Python.<br>
+- 💞️ I’m looking to collaborate on any project i can help.<br>
+- 📫 If you want to ask me anything you can write to my mail: JVinuelas19@gmail.com or send me a DM via Twitter: @JVinuelas19<br>
+- 💸 If you enjoy my work please consider doing a donation: https://www.paypal.com/donate/?hosted_button_id=7QSS3APP4TSGE<br>
+- ⚡ Fun fact **All my python knowledge is self-taught YIKES**<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
