@@ -21,7 +21,7 @@
 
 <h3 align="left">Check out my dojo:</h3>
 
-![Codewars](https://www.codewars.com/users/JVInuelas19/badges/large)](https://www.codewars.com/users/JVInuelas19)
+![Codewars](https://www.codewars.com/users/JVInuelas19/badges/large)
 
 
 
