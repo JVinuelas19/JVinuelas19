@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan Antonio</h1>
-<h3 align="center">An enthusiast Python developer and telematics engineering student from Spain!</h3>
+<h3 align="center">An enthusiast Python developer and telematics engineer from Spain!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jvinuelas19&label=Profile%20views&color=0e75b6&style=flat" alt="jvinuelas19" /> </p>
 - 👀 I’m interested in Web development, cybersecurity and software development.<br>
