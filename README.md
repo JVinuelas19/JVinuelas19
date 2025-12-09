@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jvinuelas19&label=Profile%20views&color=0e75b6&style=flat" alt="jvinuelas19" /> </p>
 - 👀 I’m interested in software and web development and automations.<br>
 - 🌱 I’m currently learning AWS Cloud Practitioner and React JS.<br>
-- 💞️ I’m looking for a job! You can check my CV here:  .<br>
+- 💞️ I’m looking for a job! You can check my CV here: https://drive.google.com/file/d/183KMp_xRrrtIrxSAkE91eNIH5J774zMG/view?usp=sharing .<br>
 - 📫 If you want to ask me anything you can write to my mail: JVinuelas19@gmail.com or send me a DM via Twitter: @JVinuelas19<br>
 - ⚡ Fun fact: **All my python knowledge is self-taught! POGGERS **<br>
 
@@ -18,6 +18,7 @@
 - Automatic label generation with GroundingDINO.<br>
 - Manual label refinement using Label Studio.<br>
 - Metrics generation and visualization.
+- Check the final model deployment here: https://www.youtube.com/watch?v=haiQQdHLrEU
 </h4>
 
 <img width="891" height="749" alt="monitorización peces" src="https://github.com/user-attachments/assets/2fcb024f-9fc1-4545-aeb5-2d6b76bb0b50" />
